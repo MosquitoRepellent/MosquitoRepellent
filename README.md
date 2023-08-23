@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MosquitoRepellent
-- 👀 I’m interested in Debugging code
-- 🌱 I’m currently learning Computer Science expected 2024
-- 💞️ I’m looking to collaborate on all sorts of Debugging in different languages( Most proficient in Java)
-- 📫 How to reach me, you can't lol
+- 👀 I’m interested in PenTesting, Vulnerability scanning/management/assessment, Ethical hacking, and Debugging code
+- 🌱 Pursuing Computer Science degree expected 2024
+- 💞️ I’m looking to collaborate on all sorts of projects in both cyber security and software debugging( Most proficient in Java)
 
 <!---
 MosquitoRepellent/MosquitoRepellent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
